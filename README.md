@@ -73,15 +73,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ###  Feature
--Login/Signup
- -Signin / Singn Up 
--Browser-(after authentication)
+# -Login/Signup
+         -Signin / Singn Up 
+# -Browser-(after authentication)
     -header
-    -MainMove
+    -MainMovie
         -Tailer 
         -Title & description
         - Movie suggestions
            -MovieList
-- NetFlixGPT
+# - NetFlixGPT
   -searchbar
   -Movie Suggestions
