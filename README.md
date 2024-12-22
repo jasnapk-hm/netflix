@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-#Feature
+###Feature
 -Login/Signup
  -Signin / Singn Up 
 -Browser-(after authentication)
