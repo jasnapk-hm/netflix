@@ -83,5 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         - Movie suggestions
            -MovieList
 ## - NetFlixGPT
-  -searchbar
-  -Movie Suggestions
+    -searchbar
+    -Movie Suggestions
