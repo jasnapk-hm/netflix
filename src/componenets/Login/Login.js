@@ -11,7 +11,6 @@ const Login = () => {
   const name = useRef(null);
 
   const handleClick = () => {
-    console.log(email.current.value);
     const message = checkValidation(
       name?.current?.value,
       email?.current?.value,
@@ -20,7 +19,6 @@ const Login = () => {
     );
 
     setErrorMsg(message);
-    console.log(message);
   };
 
   const togglesignInForm = () => {
