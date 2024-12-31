@@ -19,6 +19,13 @@ const Login = () => {
     );
 
     setErrorMsg(message);
+    if(message)return ;//if message is there then nothing which means error or some string
+
+//signin /signup based on what kind of form
+
+
+
+
   };
 
   const togglesignInForm = () => {
